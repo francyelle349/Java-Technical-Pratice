@@ -1,0 +1,14 @@
+Employee Types:
+
+Full-Time Employee: Has a fixed monthly salary.
+
+Part-Time Employee: Paid based on the number of hours worked and an hourly rate.
+
+Intern: Receives a fixed stipend, regardless of hours worked.
+
+Functionality:
+
+Each employee should have a calculateSalary() method that calculates their salary based on their type.
+
+The system should allow adding employees and displaying their details (name, type, and calculated salary).
+
