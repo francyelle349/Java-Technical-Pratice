@@ -1,7 +1,7 @@
 package queue;
 
 public class functionsList {
-    // FIFO --> first in first out people waiting on line
+    // FIFO --> first in first out, people waiting on line
 
     Integer[] array;
     int capacity;

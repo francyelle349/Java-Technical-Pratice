@@ -58,10 +58,11 @@ public class balanced {
         stack st = new stack(input.length);
 
         if(st.peek() == '(' && st.peek() == '[' ){
-            
+            st.pop();
         }
+             
 
-
+return null;
         // initialize stack
        
     }
